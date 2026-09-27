@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+respaldos/
+seguimiento_mvp.json
+informes_mvp.json
